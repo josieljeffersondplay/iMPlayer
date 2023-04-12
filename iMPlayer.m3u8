@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/p192y715q9a3megeymeg"
+#EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
+
 
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="PIAUÍ TV",ANTENA 10 HD
 https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/chunklist_w1244087222_b1396000.m3u8
