@@ -2,6 +2,10 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/p192y715q9a3megeymeg"
 #EXTM3U url-tvg="http://m3u4u.com/m3u/p192y715q9a3megeymeg"
 
+#EXTM3U url-tvg="http://m3u4u.com/epg/v158yx6p37c6zew8y9mw"
+#EXTM3U url-tvg="http://m3u4u.com/xml/v158yx6p37c6zew8y9mw"
+#EXTM3U url-tvg="http://m3u4u.com/m3u/v158yx6p37c6zew8y9mw"
+
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="PIAUÍ TV",ANTENA 10 HD
 https://livefocamundo.com:8081/robertobrito/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="TVAntena10.br" tvg-name="ANTENA 10 HD" tvg-logo="https://i.imgur.com/BqzBsdm.png" group-title="PIAUÍ TV",ANTENA 10 HD
